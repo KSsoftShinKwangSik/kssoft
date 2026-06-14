@@ -9,11 +9,11 @@ KSSOFT 배포 허가된 사용자 소프트웨어 저장소
 
 
 
-[![Watch the video](https://img.youtube.com/vi/aTbO5hsqTj0&si=GCBkbC-H3nCCXglS/maxresdefault.jpg)](https://www.youtube.com/embed/aTbO5hsqTj0&si=GCBkbC-H3nCCXglS)
+[![Watch the video](https://img.youtube.com/vi/olwF08BhQgci0uQM/maxresdefault.jpg)](https://www.youtube.com/embed/olwF08BhQgci0uQM)
 
-[<img src="https://img.youtube.com/vi/aTbO5hsqTj0&si=GCBkbC-H3nCCXglS/maxresdefault.jpg" width="1080" height="1920"
-/>](https://www.youtube.com/embed/aTbO5hsqTj0&si=GCBkbC-H3nCCXglS)
+[<img src="https://img.youtube.com/vi/olwF08BhQgci0uQM/maxresdefault.jpg" width="1080" height="1920"
+/>](https://www.youtube.com/embed/olwF08BhQgci0uQM)
 
 https://youtube.com/playlist?list=PLdvviQwceJVAgSfop0NgqZkX-NIj1qNGp&si=XHHuKPoewuKvbA3b
 
-[https://youtu.be/aTbO5hsqTj0?si=9se9pGwwTF_mSGaB](https://youtube.com/watch?v=aTbO5hsqTj0&si=GCBkbC-H3nCCXglS)
+https://youtu.be/aTbO5hsqTj0?si=olwF08BhQgci0uQM
