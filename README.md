@@ -7,4 +7,11 @@ KSSOFT 배포 허가된 사용자 소프트웨어 저장소
 [EN] Developed by KSSOFT: Local cluster computing AI with token-free operation, recursive self-developing super-intelligent AI, development and deployment of an assembly language operating system, and internet storage
 
 
+
+
+[![Watch the video](https://img.youtube.com/vi/PLdvviQwceJVAgSfop0NgqZkX-NIj1qNGp&si=XHHuKPoewuKvbA3b/maxresdefault.jpg)](https://www.youtube.com/embed/PLdvviQwceJVAgSfop0NgqZkX-NIj1qNGp&si=XHHuKPoewuKvbA3b)
+
+[<img src="https://img.youtube.com/vi/PLdvviQwceJVAgSfop0NgqZkX-NIj1qNGp&si=XHHuKPoewuKvbA3b/maxresdefault.jpg" width="1080" height="1920"
+/>](https://www.youtube.com/embed/PLdvviQwceJVAgSfop0NgqZkX-NIj1qNGp&si=XHHuKPoewuKvbA3b)
+
 https://youtube.com/playlist?list=PLdvviQwceJVAgSfop0NgqZkX-NIj1qNGp&si=XHHuKPoewuKvbA3b
